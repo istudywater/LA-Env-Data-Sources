@@ -21,7 +21,13 @@ The Louisiana Department of Conversation and Energy has numerous geospatial data
 4. Roads
 5. Water bodies
 
-### LDEQ
+### Louisiana Department of Environmental Quality (LDEQ)
+
+1. Watershed subsegments - link is [here](https://www.arcgis.com/home/item.html?id=ba28f93e24ab4c4cb4f97b44838bbd84#overview) - At this time, the data is view-only. I will test the API and see if it can be imported into QGIS.
+
+### Louisiana Department of Transportation and Development (LADOTD)
+
+1. Land cover - link is [here](https://maps.dotd.la.gov/portal/home/item.html?id=a2c532bb4f2041b8ae7025d47a4058a3#)
 
 ### Census Bureau
 
