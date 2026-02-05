@@ -36,5 +36,7 @@ The Louisiana Department of Conversation and Energy has numerous geospatial data
 1. Historical Aerial Imagery - link here
 2. Statewide LIDAR - link [here](https://atlas.ga.lsu.edu/datasets/lidar2000/)
 
+### USGS
+National Land Cover Database - link is [here](https://www.usgs.gov/centers/eros/science/national-land-cover-database)
 
 To report a broken link or to request additional data sources, please send me a message on LinkedIn.
